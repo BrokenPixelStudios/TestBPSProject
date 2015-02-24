@@ -22,12 +22,18 @@
     <option_android_build_version>0</option_android_build_version>
     <option_android_color_depth>0</option_android_color_depth>
     <option_android_display_name>Test_BPS_Project</option_android_display_name>
+    <option_android_flurry_enable>false</option_android_flurry_enable>
+    <option_android_flurry_id></option_android_flurry_id>
     <option_android_google_analytics_enable>false</option_android_google_analytics_enable>
     <option_android_google_play>false</option_android_google_play>
     <option_android_google_play_id></option_android_google_play_id>
     <option_android_google_tracking_id></option_android_google_tracking_id>
     <option_android_iap_suppress_toast>false</option_android_iap_suppress_toast>
     <option_android_icade_support>true</option_android_icade_support>
+    <option_android_icon_170>Configs\Default\android\icons\icon170.png</option_android_icon_170>
+    <option_android_icon_36>Configs\Default\android\icons\icon36.png</option_android_icon_36>
+    <option_android_icon_48>Configs\Default\android\icons\icon48.png</option_android_icon_48>
+    <option_android_icon_72>Configs\Default\android\icons\icon72.png</option_android_icon_72>
     <option_android_icon_hdpi>Configs\Default\android\icons\icon_hdpi.png</option_android_icon_hdpi>
     <option_android_icon_ldpi>Configs\Default\android\icons\icon_ldpi.png</option_android_icon_ldpi>
     <option_android_icon_mdpi>Configs\Default\android\icons\icon_mdpi.png</option_android_icon_mdpi>
