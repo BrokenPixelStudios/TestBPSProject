@@ -98,7 +98,10 @@ if(keyboard_check_direct(ord("D"))){
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>instance_create(x,y,obj_shot)
+            <string>//Create Shot
+instance_create(x,y,obj_shot);
+
+
 </string>
           </argument>
         </arguments>
