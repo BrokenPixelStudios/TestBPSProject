@@ -1,2 +1,2 @@
 # TestBPSProject
-A test project
+A test project :)
