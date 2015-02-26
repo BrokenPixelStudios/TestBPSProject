@@ -5,34 +5,9 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites">
-    <sprites name="Menu">
-      <sprite>sprites\spr_menu_playbutton</sprite>
-      <sprite>sprites\spr_menu_quitbutton</sprite>
-    </sprites>
-    <sprites name="Player">
-      <sprite>sprites\spr_pizza</sprite>
-      <sprite>sprites\spr_shot</sprite>
-    </sprites>
-  </sprites>
-  <backgrounds name="background">
-    <background>background\bg_menu</background>
-  </backgrounds>
+  <sprites name="sprites"/>
+  <backgrounds name="background"/>
   <paths name="paths"/>
-  <objects name="objects">
-    <objects name="Menu">
-      <object>objects\obj_menu_playbutton</object>
-      <object>objects\obj_menu_quitbutton</object>
-    </objects>
-    <objects name="Player">
-      <object>objects\obj_pizza</object>
-      <object>objects\obj_shot</object>
-    </objects>
-  </objects>
-  <rooms name="rooms">
-    <room>rooms\menu</room>
-    <room>rooms\play1</room>
-  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
